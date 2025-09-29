@@ -1,0 +1,16 @@
+# Core
+numpy>=1.24
+matplotlib>=3.7
+Pillow>=10.0
+opencv-python>=4.8
+
+# Deep learning
+torch>=2.1
+torchvision>=0.16
+
+# Segmentation options
+segment-anything>=1.0  # if import fails, install from GitHub: facebookresearch/segment-anything
+mediapipe>=0.10
+
+# Jupyter (optional, for local runs)
+notebook>=7.0
