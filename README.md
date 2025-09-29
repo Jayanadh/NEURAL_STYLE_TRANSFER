@@ -100,11 +100,6 @@ You can add more images—GitHub will display them as long as paths are correct.
 
 ---
 
-## 📜 License
-Add a license (MIT or similar) if you plan to share/extend. If you already have a `LICENSE`, it will apply.
-
----
-
 ## 🙌 Acknowledgements
 - PyTorch & TorchVision model zoo (VGG‑19, Mask R‑CNN, DeepLabV3)
 - Meta AI **Segment Anything** (SAM)
